@@ -1,0 +1,36 @@
+body
+{
+background:#FF6347;
+color:black;
+font-size: 30px;
+}
+#container {
+background: #FFFFFF;
+margin: 30px auto;
+width: 900px;
+height: 1000px;
+font-size: 18px;
+}
+#header {
+background: #FFA07A;
+height: 200px;
+width: 900px;
+font-size: 60px;
+}
+#menu {
+background: #FFE4E1;
+float: left;
+width: 200px;
+height: 600px;
+}
+#content {
+background: #FFF5EE;
+float: right;
+width: 700px;
+height: 600px;
+}
+#footer {
+background: #FFFAFA;
+height: 80px;
+width: 900px;
+}
